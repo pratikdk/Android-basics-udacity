@@ -1,0 +1,25 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">QuizUp</string>
+    <string name="question_1">What is android view group ?</string>
+    <string name="question_2">On which thread broadcast receivers will work in android ?</string>
+    <string name="question_3">\'Do no evil\' is tag line of ?</string>
+    <string name="question_4">What is breakpoint in android ?</string>
+    <string name="question_5">Android is based on which kernel ?</string>
+    <string name="answer1_1">Collection of views and other child views</string>
+    <string name="answer1_2">Base class of building blocks</string>
+    <string name="answer1_3">Layouts</string>
+    <string name="answer1_4">None of the Above</string>
+    <string name="answer2_1">Worker Thread</string>
+    <string name="answer2_2">Main Thread</string>
+    <string name="answer2_3">Activity Thread</string>
+    <string name="answer2_4">None of the Above</string>
+    <string name="answer3_1">Enter answer here</string>
+    <string name="answer4_1">Breaks the application</string>
+    <string name="answer4_2">Breaks the development code</string>
+    <string name="answer4_3">Breaks the execution</string>
+    <string name="answer4_4">None of the Above</string>
+    <string name="answer5_1">Linux kernel</string>
+    <string name="answer5_2">Windows kernel</string>
+    <string name="answer5_3">MAC kernel</string>
+    <string name="answer5_4">Hybrid Kernel</string>
+</resources>

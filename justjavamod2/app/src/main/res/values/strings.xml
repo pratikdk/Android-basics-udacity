@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cafe me</string>
+    <string name="name_field">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="quantity_text_view">2</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order_summary_text_view">\u20B9 10.00</string>
+    <string name="order">Order</string>
+    <string name="order_summary_name">"Name: <xliff:g id="name_field" example="Pratik">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">Add Whipped cream? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summary_chocolate">Add Chocolate? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_quantity">Quantity: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_price">Total: <xliff:g id="price" example="$10">%d</xliff:g></string>
+    <string name="order_summary_thank_you">Thank you!"</string>
+    <string name="mail_to">mailto:</string>
+    <string name="email_address">pratik.deoolwadikar@gmail.com</string>
+    <string name="email_subject">A Magic email from my app</string>
+    <string name="decrement_warning">Quantity cannot be less than 1</string>
+    <string name="increment_warning">Too much coffee for a day</string>
+</resources>

@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:17:1-44:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfac6500ca1aedde6bd64e3fc1f478ee\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c7aaff1801988df033b092e8346d0e21\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\c5a71e21896722bf413a5ed04e6d4fc2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\91ecd48fd78fb669bc95a2c4f7a290c8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77560159e84448614d0488228ed2477e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50e2559a665cd874fe6b45a76b149a90\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\eed0e87577071e4655f45bf778ce00b9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\078917575c8391f162f4b1df6a9e3579\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b49230a44328c66d238c492d7c2eb9fd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d12dda0b7b136f0f625cf08fda0b0151\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\913e12a375882c47390146505a100766\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\25f921b772c574ab32846685e5858990\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:17:1-44:12
+INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:17:1-44:12
+	package
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:19:5-50
+	android:versionName
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:18:5-63
+	android:versionCode
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:24:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:25:22-76
+application
+ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:27:5-43:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfac6500ca1aedde6bd64e3fc1f478ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfac6500ca1aedde6bd64e3fc1f478ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c7aaff1801988df033b092e8346d0e21\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c7aaff1801988df033b092e8346d0e21\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\c5a71e21896722bf413a5ed04e6d4fc2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\c5a71e21896722bf413a5ed04e6d4fc2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\91ecd48fd78fb669bc95a2c4f7a290c8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\91ecd48fd78fb669bc95a2c4f7a290c8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77560159e84448614d0488228ed2477e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77560159e84448614d0488228ed2477e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50e2559a665cd874fe6b45a76b149a90\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50e2559a665cd874fe6b45a76b149a90\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\eed0e87577071e4655f45bf778ce00b9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\eed0e87577071e4655f45bf778ce00b9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\078917575c8391f162f4b1df6a9e3579\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\078917575c8391f162f4b1df6a9e3579\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b49230a44328c66d238c492d7c2eb9fd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b49230a44328c66d238c492d7c2eb9fd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d12dda0b7b136f0f625cf08fda0b0151\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d12dda0b7b136f0f625cf08fda0b0151\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\913e12a375882c47390146505a100766\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\913e12a375882c47390146505a100766\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\25f921b772c574ab32846685e5858990\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\25f921b772c574ab32846685e5858990\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:29:9-45
+	android:allowBackup
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:31:9-35
+	android:theme
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:30:9-44
+activity#com.example.android.basicnetworking.MainActivity
+ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:33:9-42:20
+	android:label
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:35:13-45
+	android:uiOptions
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:36:13-57
+	android:name
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:34:13-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml:40:27-74
+uses-sdk
+INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfac6500ca1aedde6bd64e3fc1f478ee\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfac6500ca1aedde6bd64e3fc1f478ee\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c7aaff1801988df033b092e8346d0e21\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c7aaff1801988df033b092e8346d0e21\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\c5a71e21896722bf413a5ed04e6d4fc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\c5a71e21896722bf413a5ed04e6d4fc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\91ecd48fd78fb669bc95a2c4f7a290c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\91ecd48fd78fb669bc95a2c4f7a290c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77560159e84448614d0488228ed2477e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77560159e84448614d0488228ed2477e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50e2559a665cd874fe6b45a76b149a90\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50e2559a665cd874fe6b45a76b149a90\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\eed0e87577071e4655f45bf778ce00b9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\eed0e87577071e4655f45bf778ce00b9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\078917575c8391f162f4b1df6a9e3579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\078917575c8391f162f4b1df6a9e3579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b49230a44328c66d238c492d7c2eb9fd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b49230a44328c66d238c492d7c2eb9fd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d12dda0b7b136f0f625cf08fda0b0151\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d12dda0b7b136f0f625cf08fda0b0151\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\913e12a375882c47390146505a100766\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\913e12a375882c47390146505a100766\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\25f921b772c574ab32846685e5858990\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\25f921b772c574ab32846685e5858990\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfac6500ca1aedde6bd64e3fc1f478ee\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pratik\AndroidStudioProjects\BasicNetworking\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfac6500ca1aedde6bd64e3fc1f478ee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c7aaff1801988df033b092e8346d0e21\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c7aaff1801988df033b092e8346d0e21\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\c5a71e21896722bf413a5ed04e6d4fc2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.1.0.aar\c5a71e21896722bf413a5ed04e6d4fc2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\91ecd48fd78fb669bc95a2c4f7a290c8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\91ecd48fd78fb669bc95a2c4f7a290c8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77560159e84448614d0488228ed2477e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\77560159e84448614d0488228ed2477e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50e2559a665cd874fe6b45a76b149a90\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\50e2559a665cd874fe6b45a76b149a90\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\eed0e87577071e4655f45bf778ce00b9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\eed0e87577071e4655f45bf778ce00b9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\078917575c8391f162f4b1df6a9e3579\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\078917575c8391f162f4b1df6a9e3579\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b49230a44328c66d238c492d7c2eb9fd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b49230a44328c66d238c492d7c2eb9fd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d12dda0b7b136f0f625cf08fda0b0151\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d12dda0b7b136f0f625cf08fda0b0151\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\913e12a375882c47390146505a100766\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\913e12a375882c47390146505a100766\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfac6500ca1aedde6bd64e3fc1f478ee\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\bfac6500ca1aedde6bd64e3fc1f478ee\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\25f921b772c574ab32846685e5858990\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\25f921b772c574ab32846685e5858990\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Pratik\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\25f921b772c574ab32846685e5858990\AndroidManifest.xml:26:13-58

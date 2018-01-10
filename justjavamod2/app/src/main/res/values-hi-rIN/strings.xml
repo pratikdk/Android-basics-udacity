@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">कैफे मुझे</string>
+    <string name="name_field">नाम</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="whipped_cream">"फेटी हुई मलाई "</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="quantity">"मात्रा "</string>
+    <string name="order_summary">"आदेश सारांश "</string>
+    <string name="order">क्रम</string>
+    <string name="order_summary_name">नाम: <xliff:g id="name_field" example="Pratik">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">व्हीप्ड क्रीम जोड़ें ? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summary_chocolate">चॉकलेट जोड़ें ? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_quantity">मात्रा: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_price">कुल: <xliff:g id="price" example="$10">%d</xliff:g></string>
+    <string name="order_summary_thank_you">" धन्यवाद!"</string>
+    <string name="email_subject">"मेरे ऐप से मैजिक ईमेल "</string>
+    <string name="decrement_warning">"मात्रा 1 से कम नहीं हो सकती "</string>
+    <string name="increment_warning">"यह एक दिन के लिए बहुत अधिक कॉफी है "</string>
+</resources>
